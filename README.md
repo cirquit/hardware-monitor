@@ -41,13 +41,13 @@ If a GPU is available, and `torch`:
 If you found this useful and want to cite the work, please use the following bibtex:
 
 ```
-@misc{aisenko2023,
-  author = {Alexander, Isenko},
-  title = {Basic Python Hardware Monitor},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/cirquit/hardware-monitor}},
-  commit = {<current-commit-hash>}
+@software{Isenko_Basic_Hardware_Monitor_2023,
+  author = {Isenko, Alexander},
+  license = {MIT},
+  month = sep,
+  title = {{Basic Hardware Monitor}},
+  url = {https://github.com/cirquit/py-hardware-monitor},
+  version = {0.1},
+  year = {2023}
 }
 ```
