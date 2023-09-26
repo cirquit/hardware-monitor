@@ -1,6 +1,6 @@
-# Basic Hardware Monitor With CUDA Support
+# Basic Python Hardware Monitor With CUDA Support
 
-Single file implementation of a hardware monitor to be used with `tensorboard`, `wandb` and other logging solutions which want to work with a dictionary. Put it in your codebase and use however you like.
+Single file implementation of a hardware monitor to be used with `tensorboard`, `wandb`, and other logging solutions that want to work with a dictionary. Put it in your codebase and use it however you like.
 
 A very basic hardware monitor based on `psutil` that enables tracking of:
 
@@ -43,7 +43,7 @@ If you found this useful and want to cite the work, please use the following bib
 ```
 @misc{aisenko2023,
   author = {Alexander, Isenko},
-  title = {Basic Hardware Monitor},
+  title = {Basic Python Hardware Monitor},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
