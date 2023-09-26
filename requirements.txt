@@ -1,0 +1,3 @@
+pynvml
+psutil
+torch>=2.0.0
