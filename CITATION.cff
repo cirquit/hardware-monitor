@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Basic Hardware Monitor
+message: >-
+  If this helped you and you want to cite, please use this
+  template
+type: software
+authors:
+  - given-names: Alexander
+    family-names: Isenko
+    email: alex.isenko@tum.de
+    affiliation: Technical University of Munich
+    orcid: 'https://orcid.org/0000-0002-0153-7251'
+repository-code: 'https://github.com/cirquit/py-hardware-monitor'
+abstract: A basic Python hardware monitor in a single file.
+keywords:
+  - monitoring
+  - nvidia-smi
+  - memory
+  - CUDA
+  - Python
+license: MIT
+version: '0.1'
+date-released: '2023-09-23'
